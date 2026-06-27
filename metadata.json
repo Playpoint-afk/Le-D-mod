@@ -1,0 +1,8 @@
+{
+  "name": "Le Dé Moderne",
+  "description": "لعبة لودو النرد الحديث بتصميم عصري ذكي وممتع يدعم الذكاء الاصطناعي واللعب الجماعي",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
